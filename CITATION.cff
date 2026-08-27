@@ -1,10 +1,17 @@
 
 cff-version: 1.2.0
-title: "Software and data appendices for the dissertation on semantic-statistical expert competence assessment"
-authors:
-    family-names: Khrolenko
-    given-names: Yaroslav O.
-    orcid: https://orcid.org/0009-0004-0641-827X
+title: "Програмні засоби семантико-статистичного методу оцінювання компетентності експертів"
+message: "Якщо використовуєте ці матеріали, цитуйте їх так:"
+type: software
 version: 1.0.0
-date-released: 2026-08-27
-url: https://github.com/ВАШ_НІК/назва-репо
+license: MIT
+authors:
+  - family-names: Khrolenko
+    given-names: Yaroslav O.
+    affiliation: "Institute for Information Recording Problems, NAS of Ukraine"
+    orcid: "https://orcid.org/0009-0004-0641-827X"
+keywords:
+  - expert competence
+  - scientometrics
+  - OpenAlex
+  - PostgreSQL
