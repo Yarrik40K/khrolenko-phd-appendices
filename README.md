@@ -2,9 +2,9 @@
 
 title: "Software and data appendices for the dissertation on semantic-statistical expert competence assessment"
 authors:
-  - family-names: Khrolenko
+    family-names: Khrolenko
     given-names: Yaroslav O.
     orcid: https://orcid.org/0009-0004-0641-827X
 version: 1.0.0
 date-released: 2026-08-27
-url: https://github.com/ВАШ_НІК/назва-репо
+url: https://github.com/Yarrik40K/khrolenko-phd-appendices
